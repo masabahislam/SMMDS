@@ -1,3 +1,7 @@
+CS-807 : STATISTICS AND MATHEMATICAL MODELLING FOR DATA SCIENCE
+
+Assignment and Semester Project Files for CS-807
+
 This Repository holds files to a research activity of undertanding a deep learning/ machine learning based technical paper, implement its results and further work on improving these analysis catering the limitations and future work given in the paper.
 
 
